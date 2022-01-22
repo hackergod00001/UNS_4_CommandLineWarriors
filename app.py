@@ -13,6 +13,18 @@ def signin():
 def signup():  
       return render_template('signup.html')
 
+@app.route('/faq')  
+def faq():  
+      return render_template('faq.html')
+
+@app.route('/profile')  
+def profilee():  
+      return render_template('profile.html')
+
+@app.route('/drive')  
+def drive():  
+      return render_template('drive.html')
+
 @app.route('/signin',methods = ['POST'])
 def signa():
     result = request.form
