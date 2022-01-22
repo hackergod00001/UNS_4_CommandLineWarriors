@@ -12,3 +12,13 @@ An authority wishing to verify certain documents of a particular user can access
 The verifier should be able to check the authenticity of the document using various parameters.*
 
 ### Solution
+
+#### Technologies Used
+- HTML, CSS, JS, BootsStrap
+- Python
+- Solidity
+- MetaMask
+- Ethereum
+- IPFS
+
+#### Methodology
