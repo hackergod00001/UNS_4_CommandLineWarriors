@@ -17,7 +17,7 @@ The verifier should be able to check the authenticity of the document using vari
 - HTML, CSS, JS, BootsStrap
 - Python
 - Solidity
-- MetaMask
+- Ganache
 - Ethereum
 - IPFS
 
