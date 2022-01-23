@@ -25,4 +25,5 @@ The verifier should be able to check the authenticity of the document using vari
 Ganache gives us 10 fake account to test our code using 100ether each that also fake one
 ![image](https://user-images.githubusercontent.com/54675828/150658455-07185888-110c-4e83-ab01-b3814e3869ab.png)
 
+This is used for uploading the users data that they have filled durinf registration and that data was verifed using Aadhar verification API
 ![image](https://user-images.githubusercontent.com/54675828/150658503-94b1dd33-dc5b-4967-9352-edca91e1208e.png)
